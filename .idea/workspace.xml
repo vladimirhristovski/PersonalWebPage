@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a562f2d-9d17-4566-9131-87c2e8f6dcea" name="Changes" comment="attempt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bitola.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/bitola.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/pelister2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/pelister2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/rakomet1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/rakomet1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/tocak1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/tocak1.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SL237j8rkmuxhKLONchz3Qakuc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a562f2d-9d17-4566-9131-87c2e8f6dcea" name="Changes" comment="" />
+      <created>1688911339727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688911339727</updated>
+      <workItem from="1688911340894" duration="4486000" />
+      <workItem from="1688943148767" duration="34000" />
+      <workItem from="1688943805878" duration="1280000" />
+      <workItem from="1688945518400" duration="633000" />
+    </task>
+    <task id="LOCAL-00001" summary="idk">
+      <option name="closed" value="true" />
+      <created>1688912204588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688912204588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="idk">
+      <option name="closed" value="true" />
+      <created>1688912631185</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688912631185</updated>
+    </task>
+    <task id="LOCAL-00003" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688912656173</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688912656173</updated>
+    </task>
+    <task id="LOCAL-00004" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688912827485</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688912827485</updated>
+    </task>
+    <task id="LOCAL-00005" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688913145097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688913145097</updated>
+    </task>
+    <task id="LOCAL-00006" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688913287839</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688913287839</updated>
+    </task>
+    <task id="LOCAL-00007" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688913468976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688913468976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688913720987</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688913720987</updated>
+    </task>
+    <task id="LOCAL-00009" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688913890437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688913890437</updated>
+    </task>
+    <task id="LOCAL-00010" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914052540</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914052540</updated>
+    </task>
+    <task id="LOCAL-00011" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914482172</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914482172</updated>
+    </task>
+    <task id="LOCAL-00012" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914569415</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914569415</updated>
+    </task>
+    <task id="LOCAL-00013" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914596045</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914596046</updated>
+    </task>
+    <task id="LOCAL-00014" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914836489</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914836489</updated>
+    </task>
+    <task id="LOCAL-00015" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688914980136</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688914980136</updated>
+    </task>
+    <task id="LOCAL-00016" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688915096190</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688915096190</updated>
+    </task>
+    <task id="LOCAL-00017" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688915256171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1688915256171</updated>
+    </task>
+    <task id="LOCAL-00018" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688915454472</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1688915454472</updated>
+    </task>
+    <task id="LOCAL-00019" summary="attempt">
+      <option name="closed" value="true" />
+      <created>1688915654220</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1688915654220</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="idk" />
+    <MESSAGE value="attempt" />
+    <option name="LAST_COMMIT_MESSAGE" value="attempt" />
+  </component>
+</project>

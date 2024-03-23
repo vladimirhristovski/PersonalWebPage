@@ -1,0 +1,407 @@
+body{
+    margin: 0;
+    font-family: Arial,sans-serif;
+    background-color: mediumseagreen;
+}
+nav ul{
+    margin: 0;
+    padding: 30px;
+    background-color: blueviolet;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+nav li a{
+    padding: 10px 20px 10px 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 20px;
+}
+nav li .current{
+    color: blueviolet;
+    background: yellow;
+}
+nav li a:hover{
+    color: blueviolet;
+    background: yellow;
+}
+marquee{
+    background: blueviolet;
+    color: white;
+    border-top: 2px solid yellow;
+    border-bottom: 2px solid yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    animation: color-change 5s infinite;
+}
+.pocetna,
+.zamene,
+.hobi,
+.patuvanja,
+.obrazovanie,
+.kontakt{
+    margin: auto;
+    width: 1400px;
+}
+.pocetna{
+    text-align: center;
+}
+.pocetna h2{
+    margin-top: 70px;
+    text-transform: uppercase;
+    padding-bottom: 40px;
+}
+.pocetna p{
+    background: url("../images/welcome.gif")no-repeat center;
+    height: 613px;
+    width: 1363px;
+}
+@keyframes color-change {
+    0% { color: lightgreen; }
+    10% { color: lightcoral; }
+    20% { color: deeppink; }
+    30% { color: yellow; }
+    40% { color: palevioletred; }
+    50% { color: lightsalmon; }
+    60% { color: cyan; }
+    70% { color: lightcoral; }
+    80% { color: lawngreen; }
+    90% { color: coral; }
+    100% { color: lightskyblue; }
+}
+.zamene .slBitola{
+    border: 3px solid blueviolet;
+    display: inline-block;
+    background: url("../images/bitola.jpg") no-repeat;
+    width: 700px;
+    height: 900px;
+    background-size: cover;
+}
+.zamene .slUciliste{
+    border: 3px solid blueviolet;
+    display: inline-block;
+    background: url("../images/uciliste.jpg") no-repeat;
+    width: 850px;
+    height: 638px;
+    background-size: cover;
+}
+.zamene .slHobi{
+    border: 3px solid blueviolet;
+    display: inline-block;
+    background: url("../images/rakomet5.jpg") no-repeat;
+    width: 888px;
+    height: 500px;
+    background-size: contain;
+}
+.zamene{
+    border-radius: 10px;
+    padding-bottom: 8px;
+    background-color: lightskyblue;
+    border: 2px solid black;
+    margin-top: 20px;
+    text-align: center;
+    width: 1000px;
+}
+footer{
+    border-top: 2px solid black;
+    margin-top: 20px;
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.zamene p a{
+    text-decoration: none;
+    color: darkblue;
+}
+.kontakt{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightsalmon;
+    border: 2px solid black;
+    padding: 10px 20px 15px 30px;
+    width: 1300px;
+}
+.kontakt ul{
+    padding-left: 30px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    list-style: none;
+}
+.kontakt ul li:nth-child(3){
+    margin-top: -10px;
+    width: 1000px;
+}
+.kontakt ul li:nth-child(4){
+    margin-top: -20px;
+}
+.kontakt ul li:nth-child(3) a,
+.kontakt ul li:nth-child(4) a
+{
+    color: blue;
+    text-decoration: none;
+}
+.kontakt ul li p:nth-child(2){
+    border: 3px dashed rebeccapurple;
+    height: 450px;
+}
+.kontakt ul li:first-child p:first-child,
+.kontakt ul li:nth-child(2) p:first-child
+{
+    background: url("../images/map.png")no-repeat;
+    height: 20px;
+    background-size: contain;
+    padding-left: 23px;
+}
+.kontakt ul li:nth-child(3) p:first-child
+{
+    background: url("../images/phone.jpg")no-repeat;
+    height: 20px;
+    background-size: contain;
+    padding-left: 23px;
+}
+.kontakt ul li:nth-child(4) p:first-child
+{
+    background: url("../images/mail.jpg")no-repeat;
+    height: 20px;
+    background-size: contain;
+    padding-left: 23px;
+}
+.obrazovanie{
+    justify-content: center;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightpink;
+    border: 2px solid black;
+    padding: 10px 40px 20px 40px;
+    width: 1250px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.obrazovanie .osnovno{
+    margin-top: -10px;
+    background: url("../images/osnovno.jpg")no-repeat;
+    width: 300px;
+    height: 300px;
+    background-size: contain;
+    margin-left: 5px;
+}
+.obrazovanie p:nth-child(2){
+    width: 1170px;
+    margin-left: 25px;
+}
+.obrazovanie p:nth-child(4){
+    width: 820px;
+    margin-top: 90px;
+    line-height: 25px;
+}
+.obrazovanie .kiril{
+    margin-top: 0;
+    background: url("../images/kiril.jpg")no-repeat;
+    width: 552px;
+    height: 310px;
+    background-size: contain;
+    margin-left: 10px;
+}
+.obrazovanie .kirilSport{
+    margin-top: 0;
+    background: url("../images/osnovno sport.jpg")no-repeat;
+    width: 568px;
+    height: 310px;
+    background-size: contain;
+}
+.obrazovanie .sredno{
+    margin-left: -30px;
+    margin-top: 0;
+    background: url("../images/matura1.jpg")no-repeat;
+    width: 267px;
+    height: 400px;
+    background-size: contain;
+}
+.obrazovanie p:nth-child(8){
+    width: 820px;
+    line-height: 25px;
+    margin-top: 140px;
+}
+.obrazovanie .tehnicko{
+    margin-top: 0;
+    background: url("../images/tehnicko.jpg")no-repeat 0 -70px;
+    width: 550px;
+    height: 420px;
+    background-size: cover;
+    margin-left: 0;
+}
+.obrazovanie .ekipa{
+    margin-top: 0;
+    background: url("../images/rakomet2.jpg")no-repeat;
+    width: 560px;
+    height: 420px;
+    background-size: contain;
+}
+.obrazovanie p:nth-child(11){
+    margin-left: -25px;
+    margin-top: 0;
+}
+.obrazovanie .finki{
+    background: url("../images/finki.png") no-repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 0;
+    margin-left: 5px;
+}
+.obrazovanie p:nth-child(13){
+    width: 820px;
+    margin-top: 110px;
+    line-height: 25px;
+}
+.obrazovanie .osnovno,
+.obrazovanie .kiril,
+.obrazovanie .kirilSport,
+.obrazovanie .sredno,
+.obrazovanie .tehnicko,
+.obrazovanie .ekipa,
+.obrazovanie .finki
+{
+    display: inline-block;
+    border:3px dotted rebeccapurple;
+}
+.hobi{
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: lightgoldenrodyellow;
+    border: 2px solid black;
+    padding: 20px 50px 20px 50px;
+    width: 1000px;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+.hobi h2{
+    width: 1200px;
+}
+.hobi p:nth-child(2){
+    margin-top: -10px;
+}
+.hobi p:nth-child(3){
+    margin-top: -25px;
+    line-height: 25px;
+}
+.hobi .rakomet1{
+    background: url("../images/rakomet4.jpg")no-repeat;
+    width: 816px;
+    height: 612px;
+    margin-left: 100px;
+    margin-top: -10px;
+    border: 3px double purple;
+}
+.hobi .rakomet2{
+    background: url("../images/rakomet1.jpg")no-repeat;
+    width: 263px;
+    height: 350px;
+    background-size: contain;
+    margin-top: 0;
+    border: 3px double purple;
+}
+.hobi p:nth-child(6){
+    margin-top: 110px;
+    width: 700px;
+    line-height: 25px;
+}
+.hobi p:nth-child(7){
+    margin-top: -10px;
+    line-height: 25px;
+}
+.hobi .rakomet3{
+    background: url("../images/rakomet3.jpg")no-repeat;
+    width: 815px;
+    height: 613px;
+    background-size: contain;
+    margin-top: 0;
+    margin-left: 95px;
+    border: 3px double purple;
+}
+.hobi p:nth-child(9){
+    margin-top: -10px;
+    line-height: 25px;
+}
+.hobi .planina1{
+    margin-left: 35px;
+    background: url("../images/pelister2.jpg")no-repeat;
+    width: 450px;
+    height: 600px;
+    background-size: contain;
+    margin-top: 0;
+    border: 3px double purple;
+}
+.hobi .planina12{
+    background: url("../images/pelister3.jpg")no-repeat;
+    width: 450px;
+    height: 600px;
+    background-size: contain;
+    margin-top: 0;
+    border: 3px double purple;
+}
+.hobi p:nth-child(12){
+    width: 660px;
+    margin-top: 170px;
+    line-height: 25px;
+}
+.hobi .planina2{
+    background: url("../images/pelister1.jpg")no-repeat;
+    width: 300px;
+    height: 400px;
+    background-size: contain;
+    margin-top: 0;
+    border: 3px double purple;
+}
+.hobi table{
+    margin-left: 310px;
+    border: 1px solid black;
+    background-color: darkseagreen;
+}
+.hobi table th{
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+.hobi table td{
+    padding-bottom: 3px;
+}
+.hobi table tr td:last-child{
+    text-align: center;
+}
+.hobi table tr td:first-child{
+    padding-right: 15px;
+}
+.hobi .tocak1{
+    background: url("../images/tocak1.jpg")no-repeat;
+    width: 300px;
+    height: 400px;
+    background-size: contain;
+    margin-top: 20px;
+    border: 3px double purple;
+}
+.hobi p:nth-child(17){
+    width: 650px;
+    margin-top: 170px;
+    line-height: 25px;
+}
+.hobi .tocak2{
+    background: url("../images/tocak2.jpg")no-repeat;
+    width: 933px;
+    height: 700px;
+    background-size: contain;
+    margin-top: 0;
+    margin-left: 35px;
+    border: 3px double purple;
+}
